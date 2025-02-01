@@ -1,4 +1,4 @@
-<h1 align="LEFT">Hi, I'm Sasha Ghadigaonkar!👋</h1>
+<h1 align="LEFT">Hi, I'm Sasha!👋</h1>
 <h3 align="LEFT">🚀 Tech Enthusiast | Developer | Photographer</h3>
 
 🔭 I’m currently working on **Mastering the art of writing clean, efficient, and scalable code—one bug at a time!**
