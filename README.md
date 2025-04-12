@@ -5,11 +5,11 @@
 
 🌱 I’m currently learning **How to make apps smarter with AI, craft seamless user experiences, and maybe even train my brain to debug code faster than I break it. 🤖🔥**
 
-👯 I’m looking to collaborate on **Exciting Flutter and MERN stack projects that solve real-world problems. Got an idea? Let’s build it!**
+👯 I’m looking to collaborate on **Exciting Flutter and OpenCV projects that solve real-world problems. Got an idea? Let’s build it!**
 
 🤝 I’m looking for help with **Cracking the secrets of system optimization and cloud integrations—because good code deserves a great backend.**
 
-💬 Ask me about **Crafting seamless Flutter apps, optimizing SQL queries, building dynamic web apps with React & Node.js, or fixing that stubborn CSS layout.**
+💬 Ask me about **Crafting seamless Flutter apps, optimizing SQL queries, creating smart visual tools with OpenCV, or fixing that stubborn CSS layout.**
 
 📫 How to reach me **sashagladdy11@gmail.com**
 
